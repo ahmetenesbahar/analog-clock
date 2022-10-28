@@ -1,4 +1,4 @@
-## Satuhaz's Manual Clock
+## Satuhaz's Analog Clock
 
 Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim bir manuel saat uygulamasıdır.
 
