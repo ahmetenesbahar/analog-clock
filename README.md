@@ -7,7 +7,7 @@ Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim bir manuel saat uygulama
 İlk olarak aşağıdaki komutu kopyalanız. Ardından terminal ekranını açarak, projenin kurulmasını istediğiniz bir alana gelerek yapıştırıp çalıştırınız.
 
 ```sh
-git clone https://github.com/ahmetenesbahar/theme-clock
+git clone https://github.com/ahmetenesbahar/manual-clock
 ```
 
 Klonlama işleminin ardından live server açarak kodu önizleyebilirsiniz.
