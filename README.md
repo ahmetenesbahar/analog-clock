@@ -1,6 +1,6 @@
 ## Satuhaz's Analog Clock
 
-Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim bir manuel saat uygulamasıdır.
+Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim bir analog saat uygulamasıdır.
 
 ## Kurulum
 
